@@ -34,6 +34,8 @@ follow these steps:
 
 ## Developer
 - Mohamed Junaid
-  
-### Support or Contact
+  Flutter Developer
+  Kerala,Malappuram
+
+  ### Support or Contact
 For any inquiries or support regarding the application, please contact Mohamed Junaid at junaid3314@gmail.com.
