@@ -33,9 +33,9 @@ follow these steps:
    - Select the "Full Reset" option.
 
 ## Developer
-- Mohamed Junaid
-  Flutter Developer
-  Kerala,Malappuram
+#### Mohamed Junaid
+  #### Flutter Developer
+  ##### Kerala,Malappuram
 
   ### Support or Contact
 For any inquiries or support regarding the application, please contact Mohamed Junaid at junaid3314@gmail.com.
