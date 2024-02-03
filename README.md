@@ -36,6 +36,7 @@ follow these steps:
 * ### Mohamed Junaid
   ##### Flutter Developer
   ##### Malappuram,Kerala
+  ##### +919048779057
   
  ### Support or Contact
- For any inquiries or support regarding the application, please contact Mohamed Junaid at junaid3314@gmail.com.
+ For any inquiries or support regarding the application, please contact Mohamed Junaid at junaid3314@gmail.com 0r Call +919048779057.
