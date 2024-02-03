@@ -33,7 +33,7 @@ follow these steps:
    - Select the "Full Reset" option.
 
 ## Developer
-* Mohamed Junaid
+* ### Mohamed Junaid
   ##### Flutter Developer
   ##### Malappuram,Kerala
 
