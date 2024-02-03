@@ -103,7 +103,7 @@ class _HomeState extends State<Home> {
     });
   }
 
-  void _fullReset() {
+  void _fullReset()async {
     setState(() {
       _countdown = 5;
       _currentSecond = 0;
@@ -116,8 +116,8 @@ class _HomeState extends State<Home> {
       _message = "Click to Start";
       _successfulAttempts = 0;
     });
-    _timer.cancel();
-
+    final preferences = await SharedPreferences.getInstance();
+    await preferences.clear();
   }
 
   Future<void> _saveData() async {
