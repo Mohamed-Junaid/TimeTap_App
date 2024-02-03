@@ -36,6 +36,6 @@ follow these steps:
 * ### Mohamed Junaid
   ##### Flutter Developer
   ##### Malappuram,Kerala
-
-  ### Support or Contact
-For any inquiries or support regarding the application, please contact Mohamed Junaid at junaid3314@gmail.com.
+  
+ ### Support or Contact
+ For any inquiries or support regarding the application, please contact Mohamed Junaid at junaid3314@gmail.com.
